@@ -1,0 +1,8 @@
+html,a{
+    background: black;
+    color: rgb(229, 229, 97);
+}
+
+p,ul,.index{
+    color: floralwhite;
+}
