@@ -14,3 +14,7 @@ p,ul,.index{
 img{
     border-radius: 30px;
 }
+
+ul{
+    list-style: none;
+}
