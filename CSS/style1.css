@@ -10,3 +10,7 @@ html,a{
 p,ul,.index{
     color: floralwhite;
 }
+
+img{
+    border-radius: 30px;
+}
